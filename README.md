@@ -70,6 +70,8 @@ src
 ```bash
 git clone https://github.com/Quraishiraza/Ali-Portfolio
 
+```
+
 ---
 
 ### 2️⃣ Install dependencies
