@@ -68,26 +68,57 @@ src
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/sharminiffat/sharminiffat.github.io.git
+git clone https://github.com/Quraishiraza/Ali-Portfolio
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repository
+### 2️⃣ Install dependencies
 ```bash
-git clone https://github.com/Quraishiraza/portfolio.git
-
----
-
 npm install
 
----
-
+### 3️⃣ Run the development server
+```bash
 npm run dev
 
----
-
+### 4️⃣ Open in browser
+```bash
 http://localhost:5173
 
+
+
+## 🌍 Deployment
+
+This project is deployed on **GitHub Pages**.
+
+### To deploy your own version:
+1. Create a new repository on GitHub  
+2. Push your local repository to GitHub  
+3. Go to **Repository Settings → Pages**  
+4. Set the source branch to **`gh-pages`**
+
 ---
+
+## 🙌 Acknowledgements
+
+- Inspired by modern design trends  
+- Built using **React** and **Vite** for a fast, interactive experience  
+- Styled with **Tailwind CSS** for a clean, responsive design  
+- Icons from **react-icons**  
+- Contact form functionality powered by **EmailJS**
+
+---
+
+## 📬 Contact
+
+- **Email:** alirazaqurashi00@gmail.com  
+- **LinkedIn:** Md Ali Raza Quraishi
+- **GitHub:** https://github.com/Quraishiraza 
+- **Facebook:** Ali Raza Quraishi  
+- **Instagram:** @md_alirazaquraishi  
+
+---
+
+💬 *Feel free to reach out for collaborations, internships, or just a friendly chat!*
+
+
+
