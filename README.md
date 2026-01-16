@@ -78,13 +78,19 @@ git clone https://github.com/Quraishiraza/Ali-Portfolio
 ```bash
 npm install
 
+```
+
 ### 3️⃣ Run the development server
 ```bash
 npm run dev
 
+```
+
 ### 4️⃣ Open in browser
 ```bash
 http://localhost:5173
+
+```
 
 
 
