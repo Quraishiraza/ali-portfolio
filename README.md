@@ -33,27 +33,28 @@ This portfolio showcases my **projects, skills, education, and experience**, and
 
 ## 📂 Project Structure
 
+```
 src
 ├── assets
-│ ├── blobs
-│ ├── cv
-│ └── projects
+│   ├── blobs
+│   ├── cv
+│   └── projects
 ├── components
-│ ├── Contact
-│ ├── Experience
-│ ├── Footer
-│ ├── Header
-│ ├── Hero
-│ ├── Loader
-│ ├── Navbar
-│ ├── Projects
-│ └── Skills
+│   ├── Contact
+│   ├── Experience
+│   ├── Footer
+│   ├── Header
+│   ├── Hero
+│   ├── Loader
+│   ├── Navbar
+│   ├── Projects
+│   └── Skills
 ├── hooks
-│ └── useForm
+│   └── useForm
 ├── App.jsx
 ├── index.css
 └── main.jsx
-
+```
 
 ---
 
