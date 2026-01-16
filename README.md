@@ -32,3 +32,47 @@ This portfolio showcases my **projects, skills, education, and experience**, and
 ---
 
 ## 📂 Project Structure
+
+src
+├── assets
+│ ├── blobs
+│ ├── cv
+│ └── projects
+├── components
+│ ├── Contact
+│ ├── Experience
+│ ├── Footer
+│ ├── Header
+│ ├── Hero
+│ ├── Loader
+│ ├── Navbar
+│ ├── Projects
+│ └── Skills
+├── hooks
+│ └── useForm
+├── App.jsx
+├── index.css
+└── main.jsx
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Quraishiraza/portfolio.git
+
+---
+
+npm install
+
+---
+
+npm run dev
+
+---
+
+http://localhost:5173
+
+---
