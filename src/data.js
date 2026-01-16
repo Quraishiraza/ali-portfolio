@@ -123,8 +123,7 @@ export const experiences = [
       "Pandas",
       "Pytorch",
       "OpenCV",
-      "Yolov8",
-      "CVAT",
+      
 
     ],
   },
@@ -162,7 +161,7 @@ export const education = [
     img: guruNanakLogo,
     school: "Gurunanak Higher Secondary School, Ranchi",
     date: "Apr 2018 - March 2020",
-    grade: "75.4%",
+    grade: "71%",
     desc: "I completed Higher Secondary education from Gurunanak Higher Secondary School, Ranchi, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM).",
     degree: "Higher Secondary Education - PCM ",
   },
@@ -171,9 +170,9 @@ export const education = [
     img: BishopLogo,
     school: "Bishop Hartmann Academy, Ranchi",
     date: "Apr 2006 - March 2018",
-    grade: "71.2%",
-    desc: "I completed Secondary education from Bishop Hartmann Academy, Ranchi, under the ICSE board, where I studied Science with Computer.",
-    degree: "Secondary Education, Science with Computer Application",
+    grade: "70%",
+    desc: "I completed Secondary education from Bishop Hartmann Academy, Ranchi, under the ICSE board, where I studied Science.",
+    degree: "Secondary Education, Science",
   },
 ];
 
@@ -195,26 +194,6 @@ export const projects = [
     webapp:
       "https://weather-app-five-omega-21.vercel.app/"
   },
-  // {
-  //   id: 0,
-  //   title: "Code Crafter",
-  //   description:
-  //     "Code Crafter is a smart code review assistant that analyzes your codebase, identifies potential improvements, and suggests enhancements using the Gemini API. Built with React.js, Node.js, and styled with CSS, this tool helps developers write cleaner, more efficient code by offering intelligent, real-time feedback right in their development workflow.",
-
-  //   image: codeCrafter,
-  //   tags: [
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //     "React JS",
-  //     "API",
-  //     "Node.js",
-  //     "Express",
-  //   ],
-  //   github:
-  //     "https://github.com/sharmin-iffat/CodeCrafter-A-Code-Reviewer-Website",
-  //   // webapp:
-  // },
   {
     id: 1,
     title: "Epic Escape",
@@ -235,23 +214,6 @@ export const projects = [
     github: "https://github.com/sharmin-iffat/Notes-App",
     // webapp:
   },
-  // {
-  //   id: 3,
-  //   title: "Netflix Data Analysis",
-  //   description:
-  //     "The Netflix Data Analysis Project examines patterns in titles, genres, and release trends to uncover viewer insights using Python and data visualization tools. It showcases skills in data cleaning, exploratory analysis, and storytelling through visuals.",
-  //   image: netflix,
-  //   tags: [
-  //     "Python",
-  //     "NumPy",
-  //     "Pandas",
-  //     "Matplotlib",
-  //     "Seaborn",
-  //     "Jupyter Notebook",
-  //   ],
-  //   github: "https://github.com/sharmin-iffat/NetflixDataAnalysis",
-  //   // webapp:
-  // },
   // {
   //   id: 4,
   //   title: "House Price Prediction",
